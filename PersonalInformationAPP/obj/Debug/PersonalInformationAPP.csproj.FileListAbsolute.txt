@@ -1,0 +1,9 @@
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\bin\Debug\PersonalInformationAPP.exe.config
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\bin\Debug\PersonalInformationAPP.exe
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\bin\Debug\PersonalInformationAPP.pdb
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\obj\Debug\PersonalInformationAPP.csprojResolveAssemblyReference.cache
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\obj\Debug\PersonalInformationAPP.PersonalInfoUI.resources
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\obj\Debug\PersonalInformationAPP.Properties.Resources.resources
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\obj\Debug\PersonalInformationAPP.csproj.GenerateResource.Cache
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\obj\Debug\PersonalInformationAPP.exe
+E:\KHPolash\11 May 2015\PersonalInformationAPP\PersonalInformationAPP\obj\Debug\PersonalInformationAPP.pdb
